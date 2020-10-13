@@ -1,6 +1,5 @@
 # Challenge-11-Note-Taker-Express.js
 
-# Challenge-10-MyTeamGenerator
 
 # Summary
 Create a Note taker application using Javascript, OOP, Node.js, Inquirer, Jest & Express.js .
