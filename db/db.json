@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Hello, Welcome to note taker",
+      "text": "In here you can write notes, edit and delete. \n\nHappy note taking!",
+      "id": "EdnZr2WCh"
+    },
+    {
+      "title": "Hello World",
+      "text": "i am here using express js that allows me to create this note taker app that i am writing within. \n\nThank you for Watching!",
+      "id": "phc9bLElN"
+    }
+  ]
+}

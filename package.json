@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Juan Carlos Gomez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "shortid": "^2.2.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcgom3/Challenge-11-Note-Taker-Express.js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jcgom3/Challenge-11-Note-Taker-Express.js/issues"
+  },
+  "homepage": "https://github.com/jcgom3/Challenge-11-Note-Taker-Express.js#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
