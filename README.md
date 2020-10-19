@@ -13,6 +13,7 @@
 
 ## Deployed Application
 
+Check out my application on [Heroku](https://abcdefgnotetaker.herokuapp.com/) to use without installing npm and its packages and not having to keep on restarting the server.
 
 # Mockup Image
 ![screenshot](public/assets/images/NoteTakerMockUp.png)
